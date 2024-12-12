@@ -30,7 +30,7 @@ a:visited {
 }
 
 body {
-    background-image: url('../startbootstrap-clean-blog-gh-pages/Pastel\ wallpaper.jpg'); /* Path to your image */
+    background-image: url('../startbootstrap-clean-blog-gh-pages/pastel.jpg'); /* Path to your image */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents tiling */
